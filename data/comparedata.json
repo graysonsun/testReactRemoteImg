@@ -1,14 +1,15 @@
 {
     "tiktok":[
-        "http://api.tiktokv.com/aweme/v1/playwm/?video_id=v090449d0000betsvl41psvo9dcifr2g&line=0",
-        "http://api.tiktokv.com/aweme/v1/playwm/?video_id=v07025310000beg68utsk0et5m1521qg&line=0"
+        "http://api.tiktokv.com/aweme/v1/playwm/?video_id=v07025310000beg68utsk0et5m1521qg&line=0",
+        "http://api.tiktokv.com/aweme/v1/playwm/?video_id=v090449d0000betsvl41psvo9dcifr2g&line=0"
     ],
     "voov":[
-        "http://1252507790.vod2.myqcloud.com/ada6ba06vodtranssgp1252507790/949d579c5285890782724989055/v.f17649.mp4",
-        "http://1252507790.vod2.myqcloud.com/ada6ba06vodtranssgp1252507790/6cd6797b5285890782999622812/v.f17649.mp4"
+        "http://1252507790.vod2.myqcloud.com/ada6ba06vodtranssgp1252507790/6cd6797b5285890782999622812/v.f17649.mp4",
+        "http://1252507790.vod2.myqcloud.com/ada6ba06vodtranssgp1252507790/949d579c5285890782724989055/v.f17649.mp4"   
     ],
     "kwai":[
-        "http://alimov3.a.yximgs.com/bs2/newWatermark/ODYwMzI3MDI3Ng_en_3.mp4",
+        "http://alimov3.a.yximgs.com/bs2/newWatermark/ODg4NDM1NzgyOA_en_3.mp4",
         "http://alimov3.a.yximgs.com/bs2/newWatermark/ODYwMzI3MDI3Ng_en_3.mp4"
+        
     ]
 }
