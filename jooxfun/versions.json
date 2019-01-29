@@ -1,7 +1,7 @@
 {
     "minimumVersion":"0.1.0",
-    "suggestVersion":"0.2.2",
-    "newestVersion":"0.2.2",
+    "suggestVersion":"0.2.3",
+    "newestVersion":"0.2.3",
     "updateInfo":"新增版本升级提示功能，收到提示后及时升级新版本",
     "updateUrl":"http://www.baidu.com"
 }
